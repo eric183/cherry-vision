@@ -1,0 +1,9 @@
+[submodule "dda-backend"]
+	path = dda-backend
+	url = git@github.com:eric183/dda-backend.git
+[submodule "shop-admin"]
+	path = shop-admin
+	url = git@github.com:eric183/cherry-vision-shop-admin.git
+[submodule "shop-backend"]
+	path = shop-backend
+	url = git@github.com:eric183/cherry-vision-shop-backend.git
